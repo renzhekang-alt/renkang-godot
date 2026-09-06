@@ -1,0 +1,5 @@
+Game name: Math adventure
+
+This is a game for primary school students who need to practice basic math skills. The main character is a small robot that has to cross obstacles like gaps and locked doors. Each time the robot meets an obstacle, a math problem appears on the screen, for example "7 x 8 = ?" with four answer choices. If the player picks the right answer, the obstacle disappears and the robot gets a little speed boost. If the answer is wrong, the robot stumbles and loses one life, but the player can try again until they get it correct. 
+
+There is a power meter that fills up with each correct answer. The meter has a total of 10 segments. Each correct answer fills one segment. When it is full, the robot can fly over a difficult part. There are five levels, each focusing on a different operation: addition, subtraction, multiplication, division, and a mixed level. After each level, a summary screen shows which problems the player missed, so they can review them. 
